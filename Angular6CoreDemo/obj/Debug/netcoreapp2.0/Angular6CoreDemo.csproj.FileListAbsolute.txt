@@ -1,0 +1,11 @@
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\bin\Debug\netcoreapp2.0\Angular6CoreDemo.deps.json
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\bin\Debug\netcoreapp2.0\Angular6CoreDemo.runtimeconfig.json
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\bin\Debug\netcoreapp2.0\Angular6CoreDemo.runtimeconfig.dev.json
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\bin\Debug\netcoreapp2.0\Angular6CoreDemo.dll
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\bin\Debug\netcoreapp2.0\Angular6CoreDemo.pdb
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\obj\Debug\netcoreapp2.0\Angular6CoreDemo.csprojResolveAssemblyReference.cache
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\obj\Debug\netcoreapp2.0\Angular6CoreDemo.csproj.CoreCompileInputs.cache
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\obj\Debug\netcoreapp2.0\Angular6CoreDemo.AssemblyInfoInputs.cache
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\obj\Debug\netcoreapp2.0\Angular6CoreDemo.AssemblyInfo.cs
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\obj\Debug\netcoreapp2.0\Angular6CoreDemo.dll
+F:\Demos\Angular\Angular6CoreDemo\Angular6CoreDemo\obj\Debug\netcoreapp2.0\Angular6CoreDemo.pdb
